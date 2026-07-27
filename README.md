@@ -26,7 +26,7 @@ I am a **Cybersecurity Implementer & Junior Penetration Tester / SOC Analyst** g
 * **Security & PT Tools:** Wireshark, Nmap, BurpSuite, Metasploit, Sysinternals Suite, Kali Linux, Searchsploit
 * **Networking & Protocols:** TCP/IP, OSI Model, Cisco CCNA (In-progress), Routing, Switching, VLANs, Subnetting, RF Infrastructure
 * **Systems & Admin:** Windows Server 2016 (Active Directory, GPO, DNS, DHCP), Windows 10/11, Linux (Ubuntu/Kali), Docker
-* **Languages:** Hebrew (Native), English (Fluent), Russian (Native)
+* **Languages:** Hebrew (Native) | English (Fluent / Highly Proficient) | Russian (Native)
 
 ---
 
