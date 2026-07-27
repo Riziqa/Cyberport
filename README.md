@@ -1,4 +1,4 @@
-# 🛡️ Evgeni Tsukan - Cybersecurity & Penetration Testing Portfolio
+# 🛡️ Rizika - Cybersecurity & Penetration Testing Portfolio
 
 Welcome to my Cybersecurity Portfolio!  
 I am a **Cybersecurity Implementer & Junior Penetration Tester / SOC Analyst** graduate from **KERNELiOS Knowledge Center (Yael Group)** (468 academic hours).
@@ -17,14 +17,6 @@ I am a **Cybersecurity Implementer & Junior Penetration Tester / SOC Analyst** g
 | 6 | 🔍 [Binary String Extractor](./Projects/03-Binary-String-Extractor) | Reverse engineering toolkit for string extraction | Python, Binary Analysis |
 | 7 | 🦠 [Conti Ransomware Incident Report](./Projects/04-Conti-Ransomware-Analysis) | Deep-dive malware analysis and IOC extraction | Static/Dynamic Analysis, CMAR |
 | 8 | 🏰 [Active Directory Enterprise Lab](./Projects/05-Active-Directory-Lab) | Multi-server AD DS, GPO, DNS/DHCP infrastructure | Windows Server 2016, GPO, AD DS |
-
----
-
-## 📄 Resume / CV
-* **Hebrew CV (Word):** [CV_Evgeni_Tsukan_Hebrew.docx](./Resume/CV_Evgeni_Tsukan_Hebrew.docx)
-* **English CV (Word):** [CV_Evgeni_Tsukan_English.docx](./Resume/CV_Evgeni_Tsukan_English.docx)
-* **Contact:** 055-9560399 | evgytsuk@gmail.com | Hadera, Israel
-* **LinkedIn:** [linkedin.com/in/evgeni-tsukan-657829340/](https://www.linkedin.com/in/evgeni-tsukan-657829340/)
 
 ---
 
