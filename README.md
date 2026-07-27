@@ -30,4 +30,4 @@ I am a **Cybersecurity Implementer & Junior Penetration Tester / SOC Analyst** g
 
 ---
 
-> ⚠️ **Disclaimer:** All security tools and scripts in this portfolio are designed for **educational purposes and authorized local lab testing ONLY**. Never use these tools against systems without explicit written permission.
+> ⚠️ **Disclaimer:** All security tools and scripts in this portfolio are designed for **educational purposes and authorized local lab testing ONLY**. Never use these tools against systems without explicit written permission. Additionally, please note that my understanding of code is very basic, and the code in these projects was primarily written using "vibecoding" (AI-assisted coding).
