@@ -1,7 +1,4 @@
-# 🛡️ Rizika - Cybersecurity & Penetration Testing Portfolio
-
-Welcome to my Cybersecurity Portfolio!  
-I am a **Cybersecurity Implementer & Junior Penetration Tester / SOC Analyst** graduate from **KERNELiOS Knowledge Center (Yael Group)** (468 academic hours).
+# 🛡️ Rizika - Cybersecurity Portfolio
 
 ---
 
@@ -17,16 +14,6 @@ I am a **Cybersecurity Implementer & Junior Penetration Tester / SOC Analyst** g
 | 6 | 🔍 [Binary String Extractor](./Projects/03-Binary-String-Extractor) | Reverse engineering toolkit for string extraction | Python, Binary Analysis |
 | 7 | 🦠 [Conti Ransomware Incident Report](./Projects/04-Conti-Ransomware-Analysis) | Deep-dive malware analysis and IOC extraction | Static/Dynamic Analysis, CMAR |
 | 8 | 🏰 [Active Directory Enterprise Lab](./Projects/05-Active-Directory-Lab) | Multi-server AD DS, GPO, DNS/DHCP infrastructure | Windows Server 2016, GPO, AD DS |
-
----
-
-## 🛠️ Technical Skills & Tools
-
-* **AI & Security Automation:** Tactical Red-Team Operator (920-line autonomous CLI), AIploit Engine, Juice Shop CTF Solver, LLM-Driven Attack Chains
-* **Security & PT Tools:** Wireshark, Nmap, BurpSuite, Metasploit, Sysinternals Suite, Kali Linux, Searchsploit
-* **Networking & Protocols:** TCP/IP, OSI Model, Cisco CCNA (In-progress), Routing, Switching, VLANs, Subnetting, RF Infrastructure
-* **Systems & Admin:** Windows Server 2016 (Active Directory, GPO, DNS, DHCP), Windows 10/11, Linux (Ubuntu/Kali), Docker
-* **Languages:** Hebrew (Native) | English (Fluent / Highly Proficient) | Russian (Native)
 
 ---
 
