@@ -7,3 +7,4 @@ Comprehensive malware analysis and incident response writeup on Conti Ransomware
 * **Dynamic Analysis:** Behavioral analysis, registry key modifications, shadow copy deletion (`vssadmin delete shadows`).
 * **IOC Extraction:** System and network-level Indicators of Compromise (IOCs) formatted to CMAR standard.
  
+ 
