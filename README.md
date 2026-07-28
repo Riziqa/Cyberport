@@ -1,6 +1,6 @@
 # 🛡️ Rizika - Cybersecurity Portfolio
 
-Welcome to my portfolio! I am highly enthusiastic about deep problem diagnosing and solving.
+Welcome to my portfolio! I am highly enthusiastic about Cyber Security and deep problem diagnosing and solving.
 
 ---
 
