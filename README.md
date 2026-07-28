@@ -1,5 +1,7 @@
 # 🛡️ Rizika - Cybersecurity Portfolio
 
+Welcome to my portfolio! I am highly enthusiastic about deep problem diagnosing and solving.
+
 ---
 
 ## 📌 Featured Cybersecurity Projects & Repositories
