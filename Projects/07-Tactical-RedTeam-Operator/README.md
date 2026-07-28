@@ -66,3 +66,4 @@ skills/              # 18 specialized skill modules
 config/              # Model configurations
 tests/               # 52 unit tests
 ```
+ 
