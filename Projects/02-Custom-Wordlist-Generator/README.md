@@ -11,3 +11,4 @@ Python utility for generating custom password dictionaries and combination sets 
 python generator.py
 ```
  
+ 
