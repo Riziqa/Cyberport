@@ -10,3 +10,4 @@ Toolkit for automated string extraction and binary inspection during malware tri
 ```bash
 python extract_strings.py <binary_filepath>
 ```
+ 
