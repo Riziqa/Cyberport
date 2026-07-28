@@ -10,3 +10,4 @@ Python utility for generating custom password dictionaries and combination sets 
 ```bash
 python generator.py
 ```
+ 
